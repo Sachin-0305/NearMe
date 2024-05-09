@@ -25,6 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -52,7 +53,7 @@ Execute the programs and publish them.
     Y coordinate <input type="text" name="" id="text2">
 </body>
 </html>
-
+```
 ## OUTPUT
 ![Screenshot 2024-04-17 094612](https://github.com/Sachin-0305/NearMe/assets/149985717/66bb3849-fcb5-4770-af96-a2129a9d8129)
 ![Screenshot 2024-04-17 094632](https://github.com/Sachin-0305/NearMe/assets/149985717/e5a0a018-6f3b-4cab-bba3-579da0a292ac)
